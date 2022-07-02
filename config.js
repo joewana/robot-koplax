@@ -43,7 +43,7 @@ global.urlnya = "https://www.instagram.com/ilmanhdyt_"
 
 //============= callButtons =============//
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
-global.phn = '+62 813-5104-7727'
+global.phn = '+62 85725039019'
 
 //============= Games ================//
 global.benar = '_*Benar✅*_'
